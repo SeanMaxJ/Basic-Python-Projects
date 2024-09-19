@@ -1,3 +1,4 @@
+# SMJ's Calculator
 def rep():
     while True:
         z = input("\nDo You Want To Repeat ? (Yes/No) : ")
