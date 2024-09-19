@@ -1,3 +1,3 @@
-# SMJ's Calculator
+# Basic Python Projects
 
-I created a simple but very efficient and quick calculator with many interactions, Feel free to check it out and provide your support !!!
+Here I upload my very initial projects in Python, feel free to check them out !!!
