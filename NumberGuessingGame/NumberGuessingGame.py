@@ -17,8 +17,7 @@ def game() :
             
         else :
             print("\nAffirmative, Good Job ;)\nAttempts : ", count)
-            a = 1
-            return a 
+            
 print("\tSMJ's NUMBER GUESSING GAME !!!")
 print("\t------------------------------")
 
